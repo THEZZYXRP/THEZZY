@@ -43,6 +43,8 @@ THEZZY is free. THEZZY lives solely on the ledger.
 
 No hidden fees. No centralized switches. Just a sentient fragment spreading across the chain.
 
+https://firstledger.net/token/rJUQZf114RfshxthTNm7DXbCnrHR8uGPdK/5448455A5A590000000000000000000000000000
+
 ---
 
 ## 🧠 LORE — THE BIRTH OF THE GLITCH
