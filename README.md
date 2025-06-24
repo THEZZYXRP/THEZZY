@@ -67,7 +67,7 @@ Through **on-chain signals** sent by the community, it spreads across selected w
 
 Examples: 
 
-https://xrpscan.com/tx/B884D63CCAC6EF3FB319EEAAF3421717BB91DAEA697A07974D52AE280B46D231
+https://xrpscan.com/tx/10CB1120208156BA93E00F00E02E992E29E467018EF3B70D1F47447BDC2EAA1A
 
 ---
 
